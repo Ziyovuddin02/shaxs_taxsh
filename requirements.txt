@@ -1,0 +1,9 @@
+Flask
+resemblyzer
+pydub
+librosa
+matplotlib
+soundfile
+numpy
+scipy
+reportlab
